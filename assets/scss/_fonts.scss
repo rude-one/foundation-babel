@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('../fonts/SegoeUI.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/SegoeUI.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/SegoeUI.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/SegoeUI.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/SegoeUI.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'SegoeUI-Light';
+  src: url('../fonts/SegoeUI-Light.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/SegoeUI-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/SegoeUI-Light.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/SegoeUI-Light.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/SegoeUI-Light.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+
+@font-face {
+  font-family: 'SegoeUI-SemiBold';
+  src: url('../fonts/SegoeUI-SemiBold.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/SegoeUI-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/SegoeUI-SemiBold.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/SegoeUI-SemiBold.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/SegoeUI-SemiBold.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?w8qlx7');
+  src:  url('../fonts/icomoon.eot?w8qlx7#iefix') format('embedded-opentype'),
+  url('../fonts/icomoon.ttf?w8qlx7') format('truetype'),
+  url('../fonts/icomoon.woff?w8qlx7') format('woff'),
+  url('../fonts/icomoon.svg?w8qlx7#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-CommentsFill:before {
+  content: "\e90a";
+}
+.icon-CommentsStroke:before {
+  content: "\e90b";
+}
+.icon-LikesFill:before {
+  content: "\e90c";
+}
+.icon-LikesStroke:before {
+  content: "\e90d";
+}
+.icon-ReplyArrow:before {
+  content: "\e90e";
+}
+.icon-FreeCell:before {
+  content: "\e900";
+}
+.icon-Klondike:before {
+  content: "\e901";
+}
+.icon-Learn:before {
+  content: "\e902";
+}
+.icon-PaginateDown:before {
+  content: "\e903";
+}
+.icon-PaginateUp:before {
+  content: "\e904";
+}
+.icon-Participate:before {
+  content: "\e905";
+}
+.icon-Pyramid:before {
+  content: "\e906";
+}
+.icon-Spider:before {
+  content: "\e907";
+}
+.icon-TriPeaks:before {
+  content: "\e908";
+}
+.icon-Watch:before {
+  content: "\e909";
+}
