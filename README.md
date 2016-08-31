@@ -1,4 +1,4 @@
-# foundation-babel
+# Foundation Babel
 Base setup for foundation 6 along with babel. Also included is underscorify for js templating.
 
 ## Basic Setup
